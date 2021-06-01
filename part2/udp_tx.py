@@ -3,7 +3,7 @@ import socket, time
 
 ADDR = "10.1.1.11"
 PORT = 1025
-MESSAGE = b"Hello, World %u"
+MESSAGE = b"Test %u"
 DELAY = 1
 
 def hex_str(bytes):
